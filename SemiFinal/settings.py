@@ -25,7 +25,7 @@ SECRET_KEY = '8+b24^w1l$p!54-#55b&9=iufxjzn2_r@f#*rh0#(%__j89ut6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["yunli.pythonanywhere.com"]
 
 
 # Application definition
